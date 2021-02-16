@@ -5,6 +5,7 @@ Computes the stationary distribution of a heterogeneous-agent model as described
 (2nd edition, 2009)
 
 Python Code: RCh7_denf.py
+
 GAUSS Code: RCh7_denf.g
 
 In order to run the Python programs, you simply need to store the file in a directory and run it.
